@@ -10,10 +10,10 @@ Use the given 9 independent variables (6 numerical, 3 categorical) to predict th
 2. EDA
 3. Split the data
 4. Model building
-- Multilinear Regression Model
-- Random Forest Regressor
+  - Multilinear Regression Model
+  - Random Forest Regressor
 5. Model evaluation
-- R square
-- Adjusted R square
-- Mean Squared Error
-- Mean Absolute Error
+  - R square
+  - Adjusted R square
+  - Mean Squared Error (MSE)
+  - Mean Absolute Error (MAE)
