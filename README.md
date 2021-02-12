@@ -1,4 +1,4 @@
-# Predict diamonds price
+# Predict diamonds price:diamonds:
 Predict diamonds price using scikit-learn packages
 dataset source : https://www.kaggle.com/shivam2503/diamonds
 
