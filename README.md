@@ -24,3 +24,5 @@ Use the given 9 independent variables (6 numerical, 3 categorical) to predict th
 | ------ | ------ | ------ | ------ | ------ |
 | Linear Regression | 0.9195 | 0.9193 | 1,290,368 | 726.29 |
 | Random Forest | 0.9828 | 0.9827 | 274,684 | 263.92 |
+
+The Random Forest has the best result among these models.
